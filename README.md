@@ -33,8 +33,8 @@ In this project, I:
 
 | File | Description | Download Link |
 |-------|-------------|----------------|
-| `Netflix.py` | Python script for analysis | [Download](https://github.com/yourusername/your-repo/raw/main/Netflix.py) |
-| `netflix_viewing_data.csv` | Sample Netflix dataset | [Download](https://github.com/yourusername/your-repo/raw/main/netflix_viewing_data.csv) |
+| `Netflix.py` | Python script for analysis | [Download](https://github.com/Kritikamishraa/netflix-viewing-analysis/raw/main/Netflix.py) |
+| `netflix_viewing_data.csv` | Sample Netflix dataset | [Download](https://github.com/Kritikamishraa/netflix-viewing-analysis/raw/main/netflix_viewing_data.csv) |
 
 ---
 
@@ -42,8 +42,8 @@ In this project, I:
 
 1️⃣ Clone the repository:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/Kritikamishraa/netflix-viewing-analysis.git
+cd netflix-viewing-analysis
 ```
 
 2️⃣ Install required libraries:
@@ -85,9 +85,9 @@ I am a **fresher Data Analyst** (2023 graduate) passionate about data, Python, a
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [DEV.to](https://dev.to/your-profile)
-- [GitHub](https://github.com/yourusername)
+- [LinkedIn](https://www.linkedin.com/in/kritika-mishra-578574317/)
+- [DEV.to](https://dev.to/kritika_mishraa)
+- [GitHub](https://github.com/Kritikamishraa)
 
 ---
 
