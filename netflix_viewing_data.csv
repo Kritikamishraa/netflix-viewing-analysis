@@ -1,0 +1,11 @@
+UserID,Title,Genre,DurationMinutes,WatchDate,Device
+U1001,Stranger Things,Sci-Fi,50,2024-01-03,Mobile
+U1002,The Crown,Drama,40,2024-01-05,TV
+U1003,Money Heist,Action,45,2024-01-07,Laptop
+U1001,The Crown,Drama,42,2024-01-10,Tablet
+U1002,Stranger Things,Sci-Fi,55,2024-01-11,Mobile
+U1004,Money Heist,Action,48,2024-01-12,TV
+U1001,Money Heist,Action,50,2024-01-15,TV
+U1003,The Crown,Drama,41,2024-01-17,Laptop
+U1004,Stranger Things,Sci-Fi,53,2024-01-18,Tablet
+U1002,Money Heist,Action,47,2024-01-20,Mobile
